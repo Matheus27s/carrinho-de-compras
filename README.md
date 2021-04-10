@@ -1,4 +1,4 @@
-# carrinho-de-compras
+# Carrinho de compras
 Hook para gerenciar um carrinho de compras.
 
  ### Telas
